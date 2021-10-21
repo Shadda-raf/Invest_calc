@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор инвестиций</string>
+    <string name="data_screen">Введите данные для рассчета </string>
+    <string name="results_Screen">Результаты</string>
+    <string name="count_button">Посчитать</string>
+    <string name="enter_term">Введите срок (в годах) </string>
+    <string name="enter_rate">Введите ставку в процентах </string>
+    <string name="enter_payment">Введите ежемесячный платеж </string>
+</resources>
